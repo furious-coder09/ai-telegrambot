@@ -1,0 +1,4 @@
+google-genai
+pillow
+pyTelegramBotAPI
+google-generativeai
