@@ -6,7 +6,7 @@
 * * * * *
 
 
-📌 **Overview**
+📌 **Overview** BY SATYAM
 ---------------
 
 This Telegram bot integrates **Google's Gemini AI** to provide users with **AI-powered text, image, and audio processing**, plus **AI image generation!** 🤩
